@@ -3,7 +3,7 @@
 
 - 🌱 I’m currently learning **MEA(R)N full-stack**
 
-- 📝 Focused on building powerful [full-stack application](full-stack application)
+- 📝 Focused on building powerful full-stack application
 
 - 📫 How to reach me **mailtofahma@gmail.com**
 
